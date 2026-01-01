@@ -606,33 +606,12 @@ def debug_visualization(frame, landmarks, mask):
 
 ---
 
-## 🚀 Future Roadmap
-
-### **Near-Term (Q4 2025)**
-- [ ] **Activity Recognition** — Classify behaviors without identity
-- [ ] **Multi-person Tracking** — Privacy-preserving crowd analysis
-- [ ] **Real-time Analytics Dashboard** — Display only pose metrics
-
-### **Mid-Term (2026)**
-- [ ] **Mobile Deployment** — TensorFlow Lite for Android/iOS
-- [ ] **Cloud Integration** — Privacy-compliant cloud processing
-- [ ] **Custom Models** — Fine-tuned for specific domains
-- [ ] **Video File Processing** — Batch process recorded videos
-
-### **Long-Term (2026+)**
-- [ ] **Edge Device Support** — Deploy on IoT devices
-- [ ] **3D Pose Estimation** — Depth-aware privacy processing
-- [ ] **Advanced Privacy Modes** — Multiple anonymization strategies
-- [ ] **Enterprise Solutions** — Complete privacy-compliant system
-
----
-
 ## 🤝 Contributing
 
 We ❤️ contributions! Help improve privacy-first computer vision:
 
 ### **Report Issues**
-Found a bug? [Open an issue](https://github.com/dipan313/MaskedPoseDetection/issues)
+Found a bug? [Open an issue](https://github.com/dipan313/PoseEstimation-2.0-with-mask/issues)
 
 ### **Code Contributions**
 
@@ -658,17 +637,6 @@ git push origin feature/amazing-feature
 - ✅ Mobile deployment
 - ✅ New use case implementations
 - ✅ Documentation improvements
-
----
-
-## 📊 Impact & Recognition
-
-### **Project Achievements**
-- 🏆 **Privacy-First Design** — Built from ground up with privacy
-- 🛡️ **Compliance Ready** — GDPR/HIPAA/CCPA compliant
-- 📱 **Production Ready** — Tested in real-world scenarios
-- 🌟 **Active Development** — Continuously improved
-- 🚀 **Real-World Deployments** — Used in healthcare and security
 
 ---
 
@@ -702,16 +670,6 @@ MIT License - Free to use, modify, and distribute with attribution
 
 ---
 
-## ⭐ Show Your Support
-
-If this project helped you:
-- ⭐ **Star the repository**
-- 📢 **Share with your network**
-- 🔗 **Credit this project** in your work
-- 💬 **Provide feedback**
-- 🤝 **Contribute improvements**
-
----
 
 <div align="center">
 
@@ -732,6 +690,6 @@ python masked_pose_detection.py
 
 **Built with ❤️ for Privacy-Conscious Development**
 
-*Last Updated: November 2025 | Contributions Welcome | MIT License*
+*Contributions Welcome | MIT License*
 
 </div>
